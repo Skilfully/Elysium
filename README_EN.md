@@ -10,7 +10,7 @@ ElysiumLogin is a plugin for the server login system launched by the Skillfully 
 Please see the description below:
 ```
 We are developing a plugin called "ElysiumLogin," just as its name suggests, 
-this is a plugin for player login. However, what sets it apart is that it is a more feature-rich, 
+-> this is a plugin for player login. However, what sets it apart is that it is a more feature-rich, 
 -> customized plugin aimed at the web end. 
 Functionally, it has the essential login capabilities that a regular login plugin would have, but it
 -> has removed the registration and password reset functions, instead implementing these features on the web end.
