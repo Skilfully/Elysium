@@ -2,7 +2,7 @@
 ##
 # Elysium Products
 ## Elysium Products mainly focus on plugins for Minecraft servers and the provision of Minecraft server services.
-## Download [[Click here]](Release)
+## Download [[Click here]](Releases)
 ---
 # ElysiumLogin
 ElysiumLogin is a plugin for the server login system launched by the Skillfully Studio, a subsidiary of Elysium.
