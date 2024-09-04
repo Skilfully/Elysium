@@ -2,7 +2,7 @@
 ##
 # Elysium 产品
 #### Elysium 产品主要以 Minecraft服务器 上的插件和提供 Minecraft服务器 为主。
-#### 下载地址 [[点击此处]](Releases/ElysiumLogin)
+#### 下载地址 [[点击此处]](Releases)
 ---
 # ElysiumLogin
 ElysiumLogin 是 Elysium 旗下的 Skilfully工作室 推出的一款用于服务器登入系统的插件 \
