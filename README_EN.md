@@ -19,4 +19,4 @@ Additionally, it has a decentralized-like feature for group servers, meaning tha
 On this basis, it can provide a high degree of customizable configuration.
 If you have valuable suggestions, please do not hesitate to contact us!
 ```
-Contact: [Skillfully Studio](./Skillfully/Contact.md)
+Contact: [Skillfully Studio](./Skilfully/Contact.md)
