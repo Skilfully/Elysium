@@ -1,0 +1,22 @@
+name: ElysiumLoginRegister
+version: '1.0'
+main: org.xyit.elysium.ElysiumLoginRegister
+depend: [ElysiumLogin]
+api-version: '1.17'
+outhor: Cibocaz
+commands:
+    elysiumloginregister:
+      description: "查看插件信息"
+      usage: /elysiumloginregister
+      permission: elysiumLoginRegister.command.elysiumloginregister
+      permission-message: "§c你没有权限这样做！"
+    reg:
+      description: "注册"
+      usage: /reg <密码> <确认密码>
+      permission: elysiumLoginRegister.command.reg
+      permission-message: "§c你没有权限这样做！"
+    register:
+      description: "注册"
+      usage: /reg <密码> <确认密码>
+      permission: elysiumLoginRegister.command.register
+      permission-message: "§c你没有权限这样做！"
