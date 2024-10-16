@@ -103,6 +103,22 @@
     </div>
 
 
+    <!-- 【重要】服务器通讯  -->
+    <!-- 本部分需要您自行配置服务器地址与端口 -->
+    <!-- 具体变量在下方的script中有注释 -->
+    <!-- 某个写网页的beta玩意：为啥我要写注释……QwQ -->
+    <script>
+        function sendtoserver(msg) {
+            var url = '127.0.0.1:65535'; //此处为服务器IP与端口，127.0.0.1为回环地址，65535为样例端口，具体请见README.md
+
+            var ws = new WebSocket(url);
+            ws.onopen = function () {
+                ws.send(msg)
+            }
+        }
+    </script>
+
+
     <!--账号密码检查-->
     <script>
         function trip(obj, trip) {
@@ -121,7 +137,7 @@
                 trip('name_trip', '账号不得为空');
                 return false;
             } else {
-                trip('name_trip', 'OK');
+                trip('name_trip', '核验通过');
             }
 
 
@@ -132,7 +148,7 @@
                 trip('password_trip', '密码长度应大于6位');
                 return false;
             } else {
-                trip('password_trip', 'OK');
+                trip('password_trip', '核验通过');
             }
 
 
@@ -144,6 +160,8 @@
                 return false;
             }
         }
+
+
         function submitT() {
             if (checkform()) {
                 return true;
