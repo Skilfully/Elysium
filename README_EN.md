@@ -14,6 +14,7 @@ We are developing a plugin called "ElysiumLogin," just as its name suggests,
 -> customized plugin aimed at the web end. 
 Functionally, it has the essential login capabilities that a regular login plugin would have, but it
 -> has removed the registration and password reset functions, instead implementing these features on the web end.
+Of course, you can use its add-on plugins to solve this problem.
 Additionally, it has a decentralized-like feature for group servers, meaning that if there is a data
 -> change in one server, the other servers will automatically update their local data.
 On this basis, it can provide a high degree of customizable configuration.
