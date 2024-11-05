@@ -1,7 +1,7 @@
 ### [[ 简体中文 ]](README.md)
 ##
-# Elysium Products
-#### Elysium Products mainly focus on plugins for Minecraft servers and the provision of Minecraft server services.
+# Skilfully Products
+#### Skilfully mainly focuses on software, plugins for Minecraft servers, and the provision of Minecraft server services.
 #### Download [[ Click here ]](Releases)
 ---
 # ElysiumLogin
@@ -21,3 +21,8 @@ On this basis, it can provide a high degree of customizable configuration.
 If you have valuable suggestions, please do not hesitate to contact us!
 ```
 Contact: [Skillfully Studio](./Skilfully/Contact.md)
+
+---
+# SkilfullyMinecraftLauncher(SML)
+SkilfullyMinecraftLauncher is a Minecraft launcher written in Java.
+It is currently in the testing phase.
