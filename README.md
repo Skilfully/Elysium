@@ -5,7 +5,7 @@
 #### 下载地址 [[ 点击此处 ]](Releases)
 ---
 # ElysiumLogin
-ElysiumLogin 是 Elysium 旗下的 Skilfully工作室 推出的一款用于服务器登入系统的插件 \
+ElysiumLogin 是 Skilfully工作室 推出的一款用于服务器登入系统的插件 \
 请看描述
 ```
 我们正在开发一个叫做 “ElysiumLogin” 的插件，正如他的名字一样，
@@ -20,5 +20,5 @@ ElysiumLogin 是 Elysium 旗下的 Skilfully工作室 推出的一款用于服�
 
 ---
 # SkilfullyMinecraftLauncher(SML)
-SkilfullyMinecraftLauncher 是一款由Java语言编写的Minecraft启动器程序 \
+SkilfullyMinecraftLauncher 是一款由 Java语言编写的 Minecraft启动器程序 \
 目前正在开发阶段
