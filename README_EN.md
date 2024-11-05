@@ -5,7 +5,7 @@
 #### Download [[ Click here ]](Releases)
 ---
 # ElysiumLogin
-ElysiumLogin is a plugin for the server login system launched by the Skillfully Studio, a subsidiary of Elysium.
+ElysiumLogin is a plugin introduced by Skilfully Studio for Minecraft-Server login systems.
 
 Please see the description below:
 ```
